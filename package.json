@@ -1,16 +1,16 @@
 {
-  "name": "hotel-mgmt-system",
+  "name": "hostel-mgmt-system",
   "version": "1.0.1",
-  "description": "Hotel booking system for customer added with an admin feature to manage reservation.",
+  "description": "hostel booking system for customer added with an admin feature to manage reservation.",
   "keywords": [
-    "hotel",
-    "hotel booking",
+    "hostel",
+    "hostel booking",
     "room reservation",
-    "hotel booking system",
-    "hotel reservation system"
+    "hostel booking system",
+    "hostel reservation system"
   ],
-  "repository": "https://github.com/tramyardg/hotel-mgmt-system",
-  "homepage": "http://hotel-mgmt-system.co.nf/",
+  "repository": "https://github.com/tramyardg/hostel-mgmt-system",
+  "homepage": "http://hostel-mgmt-system.co.nf/",
   "author": "Raymart De Guzman <raymart54@gmail.com>",
   "private": false,
   "scripts": {

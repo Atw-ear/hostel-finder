@@ -97,7 +97,7 @@ session_start();
         <div class="container d-flex justify-content-between">
             <a href="#" class="navbar-brand d-flex align-items-center">
                 <i class="fas fa-h-square mr-2"></i>
-                <strong>Hotel Booking</strong>
+                <strong>Hostel Booking</strong>
             </a>
             <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarHeader" aria-controls="navbarHeader" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>

@@ -1,3 +1,4 @@
+
 <?php
 ob_start();
 session_start();
@@ -26,7 +27,7 @@ if (isset($_SESSION["authenticated"]))
 <div class="container py-5">
     <div class="row">
         <div class="col-md-12">
-            <h2 class="text-center mb-5">Hotel Management System Registration</h2>
+            <h2 class="text-center mb-5">Hostel Management System Registration</h2>
             <div class="row">
                 <div class="col-md-6 mx-auto card-holder">
                     <div class="card border-secondary">

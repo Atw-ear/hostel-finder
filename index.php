@@ -74,7 +74,7 @@ session_start();
             <div class="row">
                 <div class="col-sm-8 col-md-7 py-4">
                     <h4 class="text-white">About</h4>
-                    <p class="text-muted">Add some information about hotel booking.</p>
+                    <p class="text-muted">Add some information about hostel booking.</p>
                 </div>
                 <div class="col-sm-4 offset-md-1 py-4 text-right">
                     <?php if ($isSessionExists) { ?>
@@ -211,7 +211,7 @@ session_start();
                         </div>
                         <img class="card-img-top" data-src="holder.js/100px225?theme=thumb&amp;bg=55595c&amp;fg=eceeef&amp;text=Thumbnail" alt="Thumbnail [100%x225]" src="image/double.jpg" data-holder-rendered="true" style="height: 225px; width: 100%; display: block;">
                         <div class="card-body">
-                            <p class="card-text">The standard twin room is equipped with two single beds to house two people. An enticing set of top notch facilities to the optimum security level, a fully air conditioned twin room remains the perfect choice for your needs. Book hotel rooms with us and enjoy your trip with full fervor.</p>
+                            <p class="card-text">The standard twin room is equipped with two single beds to house two people. An enticing set of top notch facilities to the optimum security level, a fully air conditioned twin room remains the perfect choice for your needs. Book hostel rooms with us and enjoy your trip with full fervor.</p>
                             <div class="d-flex justify-content-between align-items-center">
                                 <?php if ($isSessionExists) { ?>
                                 <button type="button" class="btn btn-sm btn-outline-success" data-rtype="Double" data-toggle="modal" data-target=".book-now-modal-lg">
@@ -286,7 +286,7 @@ session_start();
                         </div>
                         <img class="card-img-top" data-src="holder.js/100px225?theme=thumb&amp;bg=55595c&amp;fg=eceeef&amp;text=Thumbnail" alt="Thumbnail [100%x225]" src="image/double.jpg" data-holder-rendered="true" style="height: 225px; width: 100%; display: block;">
                         <div class="card-body">
-                            <p class="card-text">The standard twin room is equipped with two single beds to house two people. An enticing set of top notch facilities to the optimum security level, a fully air conditioned twin room remains the perfect choice for your needs. Book hotel rooms with us and enjoy your trip with full fervor.</p>
+                            <p class="card-text">The standard twin room is equipped with two single beds to house two people. An enticing set of top notch facilities to the optimum security level, a fully air conditioned twin room remains the perfect choice for your needs. Book hostel rooms with us and enjoy your trip with full fervor.</p>
                             <div class="d-flex justify-content-between align-items-center">
                                 <?php if ($isSessionExists) { ?>
                                 <button type="button" class="btn btn-sm btn-outline-success" data-rtype="Double" data-toggle="modal" data-target=".book-now-modal-lg">

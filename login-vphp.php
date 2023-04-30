@@ -9,7 +9,7 @@ $fb = new Facebook\Facebook([
 $helper = $fb->getRedirectLoginHelper();
 
 $permissions = ['email']; // Optional permissions
-$redirectUrl = 'https://' . $_SERVER['SERVER_NAME'] . '/hotel-mgmt-system/fb-callback.php';
+$redirectUrl = 'https://' . $_SERVER['SERVER_NAME'] . '/hostel-mgmt-system/fb-callback.php';
 $loginUrl = $helper->getLoginUrl($redirectUrl, $permissions);
 
 echo '<a href="' . htmlspecialchars($loginUrl) . '">Log in with Facebook!</a>';
